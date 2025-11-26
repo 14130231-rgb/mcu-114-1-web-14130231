@@ -10,6 +10,11 @@ body {
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
 body {
   background-color: var(--background-color);
 }
